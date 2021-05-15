@@ -2,4 +2,4 @@
 
 * Brendo Douglas Magnus de Oliveira
 * Bruno Dahlem Pereira
-* Bruno Dines
+* Bruno Medeiros Bernardes
